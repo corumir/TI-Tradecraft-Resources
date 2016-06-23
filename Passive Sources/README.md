@@ -1,1 +1,1 @@
-# TI-Tradecraft-Resources
+# Passive Sources of Threat Intelligence
